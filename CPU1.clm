@@ -1,0 +1,25 @@
+Header                   File:D:\Fiames\SIMULAZIONI\INPUT\DEM\DEM2015_canale_vuoto\DEM_nuvola_integrazione_rilieviLiDAR_2015080506_201111_clip.hdr
+Input hydrographs        File:D:\Fiames\SIMULAZIONI\INPUT\idrogrammi\Fiames_c01_Tr300_picco_v02.txt
+Distribution control flag number  :      1.00
+Land Use                 File:D:\Fiames\SIMULAZIONI\INPUT\USO_SUOLO\uso_suolo_fiames_c01_rev08.flt
+Land Characteristic      File:D:\Fiames\SIMULAZIONI\INPUT\USO_SUOLO\uso_suolo_fiamse_c01_rev09_OK.txt
+Internal Output (1)               :       1.0
+Internal Outputs         File:D:\Fiames\SIMULAZIONI\INPUT\sez\sezioni_fiames_c01_rev01.flt
+Second Internal Outputs  File:D:\Fiames\SIMULAZIONI\INPUT\sez\sezioni_fiames_c01_rev01_999.flt
+Internal Output Time Step (seconds):           60.0
+Simulation time                   :        1500.00
+Depos. Coeff. for Limit Angle     :     5.000
+Inferior Limit Angle (°) for debris flow routing:      5.00
+Courant number                    :     0.950
+Minimum Flow Depth for Routing (m):   0.03000
+Erosion flag number               :      1.00
+Egashira erosion coefficient      :      0.50
+Egashira deposition coefficient   :      1.00
+Minimum Flow Depth for Eros/Dep(m):   0.10000
+Mean solid concentration          :     0.000
+Rest solid concentration          :     0.000
+Output time step (seconds)     	  :   100.000
+Number of set logical CPUs        :      1
+Inlet Outlet condition   File:D:\Fiames\SIMULAZIONI\INPUT\inoutflow\in_out_flow1_fiames_c01_rev01.flt
+Bridge elevation         File:D:\Fiames\SIMULAZIONI\INPUT\inoutflow\in_out_flow1_fiames_c01_rev01.flt
+Bridge characteristics   File:D:\Fiames\SIMULAZIONI\INPUT\idrogrammi\Fiames_c01_Tr300_prova.txt
